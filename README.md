@@ -1,5 +1,6 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
 
+#This is just a fork for personal use, I did not made this mod, any changes to this fork in written commits by me, are not related to the source, the purpose of this fork is just to explore the source code and maybe make some changes for personal use only :)
 
 <center>
 <img alt="surveyor banner" src="https://cdn.modrinth.com/data/4KjqhPc9/images/f84b10d3e0257c66e4f60066f3f570bc26ca34b2.png"><br/>
