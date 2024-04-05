@@ -14,5 +14,5 @@ public class SurveyorConfig extends WrappedConfig {
     public final Boolean shareAllStructures = false;
 
     @Comment("Whether to share all landmarks all the time")
-    public final Boolean shareAllLandmarks = false;
+    public final Boolean shareAllLandmarks = true; //changed to true, so we can all see landmarks while we play :)
 }
