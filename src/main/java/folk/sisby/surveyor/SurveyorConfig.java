@@ -5,14 +5,14 @@ import folk.sisby.kaleido.lib.quiltconfig.api.annotations.Comment;
 
 public class SurveyorConfig extends WrappedConfig {
     @Comment("Various debug loggers and messages")
-    public final Boolean debugMode = true;
+    public final Boolean debugMode = false;
 
     @Comment("Whether to share all terrain exploration all the time")
-    public final Boolean shareAllTerrain = true;
+    public final Boolean shareAllTerrain = false;
 
     @Comment("Whether to share all structure exploration all the time")
-    public final Boolean shareAllStructures = true;
+    public final Boolean shareAllStructures = false;
 
     @Comment("Whether to share all landmarks all the time")
-    public final Boolean shareAllLandmarks = true; //changed to true, so we can all see landmarks while we play :)
+    public final Boolean shareAllLandmarks = false;
 }
